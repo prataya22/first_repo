@@ -1,2 +1,3 @@
 # first_repo
-this is my first repository
+This is my first git Repository.
+I am Prataya Ghosh.
